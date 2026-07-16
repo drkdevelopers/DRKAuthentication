@@ -1,0 +1,8 @@
+name: DRKLoginSecurity
+version: 1.0
+main: com.drkdevelopers.drkloginsecurity.DRKLoginSecurity
+api-version: '1.21'
+commands:
+  register:
+  login:
+  drkauth:
